@@ -44,6 +44,6 @@ in the room.
    - if prepayment is needed
    - if refunds are allowed
    - Price of the offer
-   - A list with the facilities of the room
+   - A list with the provisions of the room
 
 
